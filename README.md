@@ -1,2 +1,1 @@
-# Henry
-Esta es una prueba de repositorio del Prepcourse Henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
